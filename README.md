@@ -42,6 +42,8 @@ Welcome to **IntroToCrypotgrahpy**! This project contains fun cybersecurity chal
 Try to find the flag,
 only hint,
 Ciphered twice.
+![Find Flag here](challenges/CTF.jpg)
+
 
 
 ---
