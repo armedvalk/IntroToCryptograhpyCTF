@@ -43,6 +43,9 @@ Try to find the flag,
 only hint,
 Ciphered twice.
 ![Find Flag here](challenge/CTF.jpg)
+If you can solve it, you get to be on the Top Team.
+Goodluck!
+--Nathan Rhodes and Andrew Kirolos
 
 
 
